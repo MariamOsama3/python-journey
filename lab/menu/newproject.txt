@@ -1,0 +1,3 @@
+{'title': 'first', 'details': 'ahhhhhhhhhhhhhhhhhhhh', 'totaltarget': '5000000000', 'starttime': '10/10/2010', 'endtime': '20/20/2020', 'email': 'mariam@gmail.com'}
+{'title': 'first', 'details': 'ahhhhhhhhhhhhhhhhhhhh', 'totaltarget': 4000, 'starttime': '10/10/2010', 'endtime': '20/20/2020', 'email': 'mariam@gmail.com'}
+{'title': 'AAAA', 'details': 'details', 'totaltarget': 111, 'starttime': '10/10/2001', 'endtime': '10/10/2001', 'email': ''}
